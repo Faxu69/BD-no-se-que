@@ -1549,3 +1549,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 03:11:35.273] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
 [17Apr2025 03:11:35.275] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
 [17Apr2025 03:11:35.276] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[17Apr2025 03:24:24.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meulii[/100.81.15.25:64692] logged in with entity id 400 at (22.5, 130.0, -46.5)
+[17Apr2025 03:24:25.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii joined the game
+[17Apr2025 03:24:26.319] [Server thread/INFO] [Jade/]: Syncing config to Meulii (3ad58b46-b0cd-3dfd-8361-aa180b173be8)
+[17Apr2025 03:24:26.368] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3ad58b46-b0cd-3dfd-8361-aa180b173be8 was loaded
+[17Apr2025 03:24:31.804] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 0.337081640958786) to LOW (avg. 22.3040771484375)
+[17Apr2025 03:24:39.304] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.3040771484375) to VERY_LOW (avg. 11.264440536499023)
+[17Apr2025 03:25:02.662] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/37, l='ServerLevel[world]', x=84.53, y=134.96, z=-10.45] died, message: 'Shepherd was slain by Vindicator'
