@@ -1589,3 +1589,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 03:55:24.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Ol' Betsy]
 [17Apr2025 03:55:29.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Take Aim]
 [17Apr2025 03:55:47.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Monster Hunter]
+[17Apr2025 04:10:42.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Isn't It Iron Pick]
+[17Apr2025 04:11:04.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Isn't It Iron Pick]
