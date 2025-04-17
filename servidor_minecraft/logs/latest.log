@@ -1599,3 +1599,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 04:25:24.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Suit Up]
 [17Apr2025 04:25:58.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Suit Up]
 [17Apr2025 04:26:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Diamonds!]
+[17Apr2025 04:36:06.666] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for Meulii
+[17Apr2025 04:36:06.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii was doomed to fall by Creeper
+[17Apr2025 04:36:06.669] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for Meulii at BlockPos{x=-19, y=55, z=29}
+[17Apr2025 04:36:06.669] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player Meulii
+[17Apr2025 04:36:14.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meulii lost connection: Disconnected
+[17Apr2025 04:36:14.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii left the game
+[17Apr2025 04:36:14.767] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3ad58b46-b0cd-3dfd-8361-aa180b173be8 was unloaded
+[17Apr2025 04:37:03.611] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Preparing grave for FmpFaxu
+[17Apr2025 04:37:03.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu was slain by Zombie
+[17Apr2025 04:37:03.614] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for FmpFaxu at BlockPos{x=-39, y=59, z=10}
+[17Apr2025 04:37:03.614] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player FmpFaxu
+[17Apr2025 04:37:44.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FmpFaxu lost connection: Disconnected
+[17Apr2025 04:37:44.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu left the game

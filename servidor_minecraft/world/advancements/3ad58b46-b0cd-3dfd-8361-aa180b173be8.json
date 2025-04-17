@@ -407,7 +407,8 @@
       "minecraft:skeleton": "2025-04-17 03:41:38 +0000",
       "minecraft:vindicator": "2025-04-17 03:37:30 +0000",
       "minecraft:spider": "2025-04-17 04:29:28 +0000",
-      "minecraft:zombie": "2025-04-17 03:37:48 +0000"
+      "minecraft:zombie": "2025-04-17 03:37:48 +0000",
+      "minecraft:zombie_villager": "2025-04-17 04:31:59 +0000"
     },
     "done": false
   },
@@ -1430,6 +1431,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-17 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-04-17 04:30:48 +0000"
     },
     "done": true
   },
