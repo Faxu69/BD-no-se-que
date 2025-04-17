@@ -1581,3 +1581,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 03:42:38.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Diamonds!]
 [17Apr2025 03:43:57.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Sweet Dreams]
 [17Apr2025 03:44:10.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement ['X' Marks the Spot]
+[17Apr2025 03:45:49.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Acquire Hardware]
+[17Apr2025 03:49:15.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Stone Age]
+[17Apr2025 03:51:12.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Getting an Upgrade]
+[17Apr2025 03:55:09.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Call For Adventure]
