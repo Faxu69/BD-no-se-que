@@ -1556,3 +1556,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 03:24:31.804] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 0.337081640958786) to LOW (avg. 22.3040771484375)
 [17Apr2025 03:24:39.304] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.3040771484375) to VERY_LOW (avg. 11.264440536499023)
 [17Apr2025 03:25:02.662] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/37, l='ServerLevel[world]', x=84.53, y=134.96, z=-10.45] died, message: 'Shepherd was slain by Vindicator'
+[17Apr2025 03:26:21.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Stone Age]
+[17Apr2025 03:27:18.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Getting an Upgrade]
+[17Apr2025 03:27:40.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/22, l='ServerLevel[world]', x=107.01, y=132.00, z=4.70] died, message: 'Butcher was shot by Pillager'
+[17Apr2025 03:27:52.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Monster Hunter]
+[17Apr2025 03:30:52.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Safe Haven]
+[17Apr2025 03:31:03.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement ['X' Marks the Spot]
+[17Apr2025 03:33:54.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FmpFaxu[/100.99.135.97:54235] logged in with entity id 2170 at (6.5, 140.0, -39.5)
+[17Apr2025 03:33:54.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu joined the game
+[17Apr2025 03:33:54.468] [Server thread/INFO] [Jade/]: Syncing config to FmpFaxu (40e92f69-9020-39f5-b13d-126ecadd6059)
+[17Apr2025 03:34:14.139] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 40e92f69-9020-39f5-b13d-126ecadd6059 was loaded
