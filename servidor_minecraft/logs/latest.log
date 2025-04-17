@@ -1566,3 +1566,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 03:33:54.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu joined the game
 [17Apr2025 03:33:54.468] [Server thread/INFO] [Jade/]: Syncing config to FmpFaxu (40e92f69-9020-39f5-b13d-126ecadd6059)
 [17Apr2025 03:34:14.139] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 40e92f69-9020-39f5-b13d-126ecadd6059 was loaded
+[17Apr2025 03:35:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Call For Adventure]
+[17Apr2025 03:36:41.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Sweet Dreams]
+[17Apr2025 03:37:30.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Ol' Betsy]
+[17Apr2025 03:37:30.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Take Aim]
+[17Apr2025 03:38:22.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Rotten King]
+[17Apr2025 03:38:30.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Acquire Hardware]
+[17Apr2025 03:39:28.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Simple Farming]
+[17Apr2025 03:39:29.674] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from FmpFaxu#40e92f69 to Los_roco#30b0495a
+[17Apr2025 03:39:29.674] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 40e92f69-9020-39f5-b13d-126ecadd6059 (FmpFaxu#40e92f69) to 30b0495a-9f10-4b65-82e8-872c78bc3b55 (Los_roco#30b0495a)
+[17Apr2025 03:39:29.674] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 40e92f69-9020-39f5-b13d-126ecadd6059 (FmpFaxu#40e92f69) due to claim limits
+[17Apr2025 03:39:29.674] [Server thread/INFO] [FTB Chunks/]: Team Los_roco#30b0495a had 0 claimed chunks, now has 0
+[17Apr2025 03:41:06.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Safe Haven]
+[17Apr2025 03:42:38.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Diamonds!]
+[17Apr2025 03:43:57.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Sweet Dreams]
+[17Apr2025 03:44:10.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement ['X' Marks the Spot]
