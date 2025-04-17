@@ -14857,3 +14857,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 04:20:41.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Apr2025 04:20:41.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Apr2025 04:25:24.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Suit Up]
+[17Apr2025 04:25:41.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:25:41.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:25:58.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Suit Up]
+[17Apr2025 04:26:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Diamonds!]
+[17Apr2025 04:28:57.392] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 14
+[17Apr2025 04:28:57.392] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@208639cd, b=45, e=45}, net.minecraft.world.inventory.TransientCraftingContainer@75f8c19f=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@75f8c19f, c=net.minecraft.world.inventory.InventoryMenu@208639cd, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@208639cd, b=36, e=44}, net.minecraft.world.inventory.ResultContainer@22ce2202=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@22ce2202, c=net.minecraft.world.inventory.InventoryMenu@208639cd, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@208639cd, b=9, e=35}}
+[17Apr2025 04:28:57.392] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@208639cd, b=9, e=35}
+[17Apr2025 04:30:41.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 04:30:41.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 04:34:08.726] [Worker-Main-21/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_11 is being run through DFU (hash c5565051013b30fdd5de13d0a67193214456056fe31d7ffd4db4a27a5e930a6f), this will cause launch time delays

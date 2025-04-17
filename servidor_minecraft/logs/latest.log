@@ -1597,3 +1597,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 04:18:07.279] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Spawned grave for FmpFaxu at BlockPos{x=77, y=107, z=-32}
 [17Apr2025 04:18:07.279] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Added grave entry to player FmpFaxu
 [17Apr2025 04:25:24.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meulii has made the advancement [Suit Up]
+[17Apr2025 04:25:58.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Suit Up]
+[17Apr2025 04:26:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FmpFaxu has made the advancement [Diamonds!]
